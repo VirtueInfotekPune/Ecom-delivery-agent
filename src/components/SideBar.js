@@ -53,7 +53,8 @@ function Sidebar() {
             <button
               className="ml-2 py-2 bg-tailtertiary hover:bg-red-600 w-full rounded-sm"
               onClick={() => {
-                window.location.href = "https://baseapm-1atp.onrender.com/";
+                // window.location.href = "https://baseapm-1atp.onrender.com/";
+                window.location.href = "https://ecom-im-da-app.onrender.com/";
               }}
 
             >
